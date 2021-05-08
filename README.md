@@ -1,5 +1,5 @@
 # Mav Astra
-An android app which includes health, fitness, cafeteria, payment, to-do list, and volunterring information.
+An android app which includes health, fitness, cafeteria, payment, to-do list, and voluntering information.
 
 ## Tools and Technology
 Android Studio, Java, XML
